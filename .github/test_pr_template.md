@@ -12,3 +12,4 @@ agrega contexto para describir los cambios...
 
 - [x] Pruebas de software
 - [x] aprovacion de los stakeholder
+- [ ] Nuevas caracteristicas
